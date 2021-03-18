@@ -37,7 +37,7 @@ A system for selling water in public with no supervision.
 
 ## Steps
 
-# Firebase Arduino Change Fingerprint
+### Firebase Arduino Change Fingerprint
  
 
 ## Creators
