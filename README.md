@@ -42,7 +42,7 @@ A system for selling water in public with no supervision.
 
 ## Creators
 
-1. Masoud
+1. [Masoud](https://github.com/tektz) 
 2. Humphrey
 3. Gerald
 4. Isack
