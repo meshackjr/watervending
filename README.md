@@ -13,6 +13,7 @@ A system for selling water in public with no supervision.
 
 - Ultrasonic Sensor
 - Coin acceptor
+- Water Flow Sensor
 
 
 ### Actuators
